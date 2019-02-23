@@ -1,0 +1,189 @@
+
+
+.content{
+max-width: 800px;
+margin: auto;
+height: 600px;
+background-color: #fab346;
+opacity: 1;
+
+}
+
+
+
+body{
+    background-image: url("../images/Darksouls.png");
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family: 'staatliches', cursive;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    color: #424957;
+}
+
+#question{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Yantramanav', sans-serif;
+}
+
+#playAgain {
+    text-align: center;
+    font-size:30px;
+    font-family: 'Yantramanav', sans-serif;
+}
+
+#start{
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 300px;
+    height: 50px;
+    border: none;
+    padding: 32px, 64px;
+    text-decoration: none;
+    font-size: 30px;
+    display: inline-block;
+    background-color:  #e7dcca;
+    font-family: 'Yantramanav', sans-serif;
+    
+    
+
+}
+
+#start:hover{
+    background-color: #777777;
+    color: #ffffff;
+}
+
+#button1{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 20px;
+    width: 400px;
+    height: 50px;
+    border: none;
+    padding: 32px, 64px;
+    text-decoration: none;
+    font-size: 30px;
+    display: inline-block;
+    line-height: 20px;
+    background-color:  #e7dcca;
+    font-family: 'Yantramanav', sans-serif;
+
+}
+
+#button2{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 20px;
+    width: 400px;
+    height: 50px;
+    border: none;
+    padding: 32px, 64px;
+    text-decoration: none;
+    font-size: 30px;
+    display: inline-block;
+    line-height: 20px;
+    background-color:  #e7dcca;
+    font-family: 'Yantramanav', sans-serif;
+}
+
+#button3{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 20px;
+    width: 400px;
+    height: 50px;
+    border: none;
+    padding: 32px, 64px;
+    text-decoration: none;
+    font-size: 30px;
+    display: inline-block;
+    line-height: 20px;
+    background-color:  #e7dcca;
+    font-family: 'Yantramanav', sans-serif;
+}
+
+#button4{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 20px;
+    width: 400px;
+    height: 50px;
+    border: none;
+    padding: 32px, 64px;
+    text-decoration: none;
+    font-size: 30px;
+    display: inline-block;
+    line-height: 20px;
+    background-color:  #e7dcca;
+    font-family: 'Yantramanav', sans-serif;
+}
+
+#button1:hover{
+    background-color: #424957;
+    color: #ffffff;
+}
+
+#button2:hover{
+    background-color: #424957;
+    color: #ffffff;
+}
+
+#button3:hover{
+    background-color: #424957;
+    color: #ffffff;
+}
+
+#button4:hover{
+    background-color: #424957;
+    color: #ffffff;
+}
+
+#timer{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Yantramanav', sans-serif;
+}
+
+#correctAns{
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 5px;
+    font-family: 'orbitron', sans-serif;
+
+}
+
+#Correct{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 5px;
+    font-family: 'Yantramanav', sans-serif;
+}
+
+#incorrect{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 5px;
+    font-family: 'Yantramanav', sans-serif;
+}
+
+#unanswered{
+        text-align: center;
+        font-size: 40px;
+        margin-bottom: 20px;
+        font-family: 'Yantramanav', sans-serif;
+    
+}
+
+img {
+    width: 600px;
+    height: 300px;
+    margin-left: 13%;
+    margin-right: 10%;
+    margin-top: 30px;
+}
